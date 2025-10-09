@@ -1,0 +1,16 @@
+# Kröfulisti
+
+## Viðskiptakröfur
+- BO-1 …
+
+## Notendakröfur
+- UR-1 …
+
+## Virknikröfur (Functional)
+- FR-1 …
+
+## Gæðakröfur (Non-functional)
+- QR-1 …
+
+## Viðskiptareglur
+- BR-1 …
